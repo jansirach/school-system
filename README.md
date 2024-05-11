@@ -1,6 +1,6 @@
 # Laravel SIS (Student Information System)
 
-This project is a Student Information System (SIS) built with Laravel. It provides functionalities for managing student data, courses, grades, attendance, and more.
+This project is a Student Information System (SIS) built with Laravel. It provides functionalities for managing student data, courses, attendance, and more.
 
 ## Features
 
