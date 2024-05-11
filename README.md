@@ -29,4 +29,4 @@ This project is a Student Information System (SIS) built with Laravel. It provid
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE] file for details. © [LaravelProject](https://laravelproject.com/school-management-system-laravel7/)
+This project is licensed under the MIT License - see the [LICENSE](https://matias.me/nsfw/) file for details. © [LaravelProject](https://laravelproject.com/school-management-system-laravel7/)
