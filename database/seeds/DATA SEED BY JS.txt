@@ -1,0 +1,25 @@
+** WOMP WOMP NIGGA **
+
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: admin123
+
+---Teacher Login Details---
+
+Email   : teacher@mail.com
+Password: teacher123
+
+---Student Login Details---
+
+Email   : student@mail.com
+Password: student123
+
+---Parents Login Details---
+
+Email   : parent@mail.com
+Password: parent123
+
+
+
